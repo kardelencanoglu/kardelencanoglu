@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hello!
+
 ![snake gif](https://github.com/kardelencanoglu/kardelencanoglu/blob/output/github-contribution-grid-snake.gif)
 
 <!--
