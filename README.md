@@ -4,7 +4,7 @@
 ![snake gif](https://github.com/kardelencanoglu/kardelencanoglu/blob/output/github-contribution-grid-snake.gif)
 
 # 💫 About Me:
-<br>🔭 I’m currently working on Unity & Java<br>🌱 I’m currently learning Flutter
+<br>🔭 I’m currently working on Android, Java, JavaFX, .NET, Unity <br><br><br>🌱 I’m currently learning React Native
 
 
 ## 🌐 Socials:
